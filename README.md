@@ -1,6 +1,15 @@
 # data-science-training
 Training exercises
 
+How to open a Jupyter Notebook from Anaconda Prompt?
+1. Open Anaconda Prompt
+2. Navigate to the folder where my code is kept
+3. Enter "Jupyter Notebook"
+
+How do I save/ close data in Jupyter Notebook?
+1. Seems that to ave data, I need to save in Jupyter Notebook directly
+2. To close data: Enter CTRL+c in Anaconda Prompt
+
 How to commit & push changes from Jupyter Notebooks to GitHub:
   1. Make changes in the file saved in the folder where I cloned the repositoy: C:\Users\franz\Documents\Git Repository\data-science-training
   2. Open Git Bash
