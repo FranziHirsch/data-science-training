@@ -18,4 +18,5 @@ class Card:
 
     def  __repr__(self): # This is to set out how each instance of Card should appear
         rep=f"{self.value} of {self.suit}"
+        return rep
 
