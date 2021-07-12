@@ -21,7 +21,7 @@ How to commit & push changes from Jupyter Notebooks to GitHub:
 
 How to extract data from Kaggle?
 1. Open Command Prompt
-2. Navigate to the folder on the drive where this code is saved
+2. Navigate to the folder on the drive where my code is saved
 3. Install kaggle (pip install kaggle)
 4. Download API token from kaggle website (under profile -> settings)
 5. Move downloaded token to the folder C:\User.kaggle
